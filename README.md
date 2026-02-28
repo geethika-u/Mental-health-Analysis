@@ -42,7 +42,7 @@ Identify **high-risk individuals** based on:
 
 ## 📄 Dashboard Pages
 
-### 📌 Depression Overview
+### 📌 Page 1: Depression Overview
 
 #### 📈 Visuals
 
@@ -62,5 +62,23 @@ Identify **high-risk individuals** based on:
    - Columns: Employment Status  
    - Values: Avg Depression Score  
 
+### 📌 Page 2: Suicide & Self-Harm Risk Analysis
+
+#### 📈 Visuals
+1. **Stacked Column Chart**
+   - Axis: Depression Type
+	- Values: Suicide Attempts
+2. **Bar Chart**
+   - Axis: Sleep Hours (grouped)
+	- Values: Avg Depression Score
+3. **Scatter Plot**
+   - X: SocialMedia_Hours
+	- Y: Suicide_Attempts
+	- Size: Depression_Score
+	- Legend: Gender
+4. **Table (High Risk Individuals)**
+   - Filters:
+			- Depression Score > 7
+		   - Self Harm = Yes OR Suicide Attempts > 0
 
 
