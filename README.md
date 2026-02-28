@@ -1,7 +1,7 @@
 # Mental-health-Analysis
 Mental health Analysis using Power BI
 
-```markdown
+
 # 📚 Citations
 
 - https://datasetcatalog.nlm.nih.gov/dataset?q=0002430533  
@@ -61,6 +61,6 @@ Identify **high-risk individuals** based on:
    - Rows: Education Level  
    - Columns: Employment Status  
    - Values: Avg Depression Score  
-```
+
 
 
